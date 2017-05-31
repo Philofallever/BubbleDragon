@@ -3,6 +3,7 @@
 - bubble dragon
 > a simple cocos2dx game demo  
 > 使用cocos2dx做的泡泡龙小游戏，制作分辨率是640x960,后面打算用新分辨率重新弄下自己耍。
+> mac的话解压里面的BubbleDragon_release.zip,点击里面的launch4GD就能耍，win平台要自己用cocos编译下，制作的时候使用的是cocos3.1.4
 -----------------
 ___What's feature of this game?___
 - [x] Physical Engine is used!
