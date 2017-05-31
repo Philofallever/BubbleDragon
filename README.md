@@ -2,6 +2,7 @@
 ----------------------------
 - bubble dragon
 > a simple cocos2dx game demo  
+> 使用cocos2dx做的泡泡龙小游戏，制作分辨率是640x960,后面打算用新分辨率重新弄下自己耍。
 -----------------
 ___What's feature of this game?___
 - [x] Physical Engine is used!
