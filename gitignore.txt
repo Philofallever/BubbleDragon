@@ -1,0 +1,2 @@
+# Ignore cocos
+src/cocos/
