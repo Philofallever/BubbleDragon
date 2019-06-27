@@ -1,5 +1,9 @@
 # BubbleDragon(泡泡龙)
 ----------------------------
+### 更新README 2019/6/27
+* 此项目是学习cocos的时候练习的项目,做的很差,不要fork了
+* 新做的Unity泡泡龙项目:[BubbleMegaBattle](https://github.com/Philofallever/BubbleMegaBattle)
+---------------
 - bubble dragon
 > a simple cocos2dx game demo  
 > 使用cocos2dx做的泡泡龙小游戏，制作分辨率是640x960,后面打算用新分辨率重新弄下自己耍。
